@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
