@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0746-min-cost-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
