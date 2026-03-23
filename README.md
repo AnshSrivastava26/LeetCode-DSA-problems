@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Tree
 |  |
