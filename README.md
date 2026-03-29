@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0213-house-robber-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0455-assign-cookies) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0948-bag-of-tokens) |
