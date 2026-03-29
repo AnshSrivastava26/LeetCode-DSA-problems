@@ -1,24 +1,14 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        Boolean[] dp = new Boolean[nums.length+1];
-        // Arrays.fill(dp,);
-        return jump(nums,0,dp);
-    }
+        int n = nums.length;
+        int maxReachable = 0;
 
-    public boolean jump(int[] nums,int idx,Boolean[] dp){
-        if(idx >= nums.length-1){
-            return true;
-        }
-        if(dp[idx] != null){
-            return dp[idx];
+        for(int i=0;i<n;i++){
+            if(i>maxReachable) return false;
+
+            maxReachable=Math.max(maxReachable,i+nums[i]);
         }
 
-        for(int i=1;i<=nums[idx];i++){
-            if(jump(nums,idx+i,dp) == true){
-                return dp[idx] = true;
-            }
-        }
-
-        return dp[idx] = false;
+        return true;
     }
 }
