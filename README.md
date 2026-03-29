@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0948-bag-of-tokens) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Tree
@@ -69,13 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0948-bag-of-tokens) |
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0948-bag-of-tokens) |
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->
