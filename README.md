@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0948-bag-of-tokens) |
+| [1089-duplicate-zeros](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/1089-duplicate-zeros) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Tree
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0948-bag-of-tokens) |
+| [1089-duplicate-zeros](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
