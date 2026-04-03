@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0307-range-sum-query-mutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0322-coin-change) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
