@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0091-decode-ways) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0213-house-robber-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0337-house-robber-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0968-binary-tree-cameras) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0337-house-robber-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0968-binary-tree-cameras) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0337-house-robber-iii) |
 | [0968-binary-tree-cameras](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0968-binary-tree-cameras) |
 ## Divide and Conquer
