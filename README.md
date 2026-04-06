@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0337-house-robber-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0337-house-robber-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0337-house-robber-iii) |
 | [0968-binary-tree-cameras](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0968-binary-tree-cameras) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0322-coin-change) |
 ## Design
