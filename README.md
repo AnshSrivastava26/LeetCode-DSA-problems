@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0968-binary-tree-cameras](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0968-binary-tree-cameras) |
+| [1143-longest-common-subsequence](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/1143-longest-common-subsequence) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Recursion
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0139-word-break) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1143-longest-common-subsequence](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
