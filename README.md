@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0485-max-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0948-bag-of-tokens) |
