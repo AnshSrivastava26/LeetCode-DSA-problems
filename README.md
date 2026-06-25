@@ -143,11 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0139-word-break) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
