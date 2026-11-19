@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0287-find-the-duplicate-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AnshSrivastava26/LeetCode-DSA-problems/tree/master/0557-reverse-words-in-a-string-iii) |
